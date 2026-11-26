@@ -2,6 +2,7 @@ cff-version: 1.0.0
 message: "If you use zh-emotion in your research, please cite this repository."
 title: "zh-emotion: Context-Aware Emotion Analysis for Chinese Text"
 version: 1.0.0
+date-released: 2026-11-26
 license: MIT
 type: software
 keywords:
