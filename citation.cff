@@ -1,0 +1,26 @@
+cff-version: 1.0.0
+message: "If you use zh-emotion in your research, please cite this repository."
+title: "zh-emotion: Context-Aware Emotion Analysis for Chinese Text"
+version: 1.0.0
+license: MIT
+type: software
+keywords:
+  - Chinese language
+  - emotion analysis
+  - contextual interpretation
+  - conversational analysis
+  - literary analysis
+  - large language models
+  - agent skills
+abstract: >
+  An LLM skill for analyzing emotions in Chinese-language sentences,
+  conversations, literary works, and other textual contexts. It uses a
+  technique-content-effect-emotion framework to organize interpretations,
+  identify emotional subjects and targets, trace contextual shifts, and
+  distinguish explicit statements from inferences. Outputs preserve textual
+  evidence, alternative interpretations, and uncertainty, with optional
+  structured formats for downstream models and agents.
+authors:
+  - family-names: "She"
+    given-names: "Xiaoyu"
+    orcid: "https://orcid.org/0009-0008-1119-1988"
