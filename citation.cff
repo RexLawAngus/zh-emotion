@@ -5,6 +5,7 @@ version: 1.0.0
 date-released: 2026-11-26
 license: MIT
 type: software
+repository-code: "https://github.com/RexLawAngus/zh-emotion"
 keywords:
   - Chinese language
   - emotion analysis
